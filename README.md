@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sridevi-naveen
 - 👀 I’m interested in Data 
 - 🌱 I’m currently working as a Data Engineer. My daily work involves using SQL, Snowflake, Azure, Python, Power Query, PowerBI
-- 💞️ I’m currenly exploring Snowflake AI and Agentic capabilities, Azure Fabric.
+- 💞️ I’m currenly exploring Snowflake AI and Agentic capabilities, MIcrosoft Azure Fabric.
 - 📫 How to reach me devi.mahendra@gmail.com
 
 <!---
